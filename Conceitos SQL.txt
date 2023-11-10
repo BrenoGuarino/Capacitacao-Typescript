@@ -1,0 +1,10 @@
+Capacitação Back End - Conceitos SQL:
+
+INSERT - Insert é a ação responsável por Inserir/Adicionar quaisquer registro em uma tabela
+
+SELECT - Select é a ação responsável por selecionar e retornar registros no banco de dados
+Obs: Existe o comando Where que pode ser usado para filtrar os registros que vão ser retornados por select
+
+UPDATE - Update é a ação responsável por atualizar/modificiar registros no banco de dados
+
+DELETE - Delete é a ação responsável por apagar registros no banco de dados
